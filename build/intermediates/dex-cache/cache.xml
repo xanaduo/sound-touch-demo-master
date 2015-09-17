@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/dongtao/git/sound-touch-demo-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/dongtao/git/sound-touch-demo-master/app/build/intermediates/pre-dexed/debug/classes-6eaafc305234cb332e836567eaae6e848ff0e4af.jar" />
+    </item>
+    <item
+        jar="/Users/dongtao/git/sound-touch-demo-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/dongtao/git/sound-touch-demo-master/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-9798961fc6dcab2e12d7dbf7eac4b687a2f9c4ae.jar" />
+    </item>
+    <item
+        jar="/Users/dongtao/git/sound-touch-demo-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/dongtao/git/sound-touch-demo-master/app/build/intermediates/pre-dexed/debug/classes-6cfafeba697af0178fc5704f3452396271aab283.jar" />
+    </item>
+    <item
+        jar="/Users/dongtao/androidsdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/dongtao/git/sound-touch-demo-master/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-6e96303f1c243d2aed7c8ef185558e060059396c.jar" />
+    </item>
+    <item
+        jar="/Users/dongtao/git/sound-touch-demo-master/app/build/intermediates/exploded-aar/sound-touch-demo-master/soundtouch_library/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c6eefd63f2acd16bc5f85f6d956c78145fe1d74">
+        <dex dex="/Users/dongtao/git/sound-touch-demo-master/app/build/intermediates/pre-dexed/debug/classes-782fede8563ce30136e259060d2fe9ac9e41d18e.jar" />
+    </item>
+
+</items>

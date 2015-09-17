@@ -1,0 +1,6 @@
+/Users/dongtao/git/sound-touch-demo-master/app/build/intermediates/classes/debug
+/Users/dongtao/git/sound-touch-demo-master/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-6e96303f1c243d2aed7c8ef185558e060059396c.jar
+/Users/dongtao/git/sound-touch-demo-master/app/build/intermediates/pre-dexed/debug/classes-782fede8563ce30136e259060d2fe9ac9e41d18e.jar
+/Users/dongtao/git/sound-touch-demo-master/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-9798961fc6dcab2e12d7dbf7eac4b687a2f9c4ae.jar
+/Users/dongtao/git/sound-touch-demo-master/app/build/intermediates/pre-dexed/debug/classes-6cfafeba697af0178fc5704f3452396271aab283.jar
+/Users/dongtao/git/sound-touch-demo-master/app/build/intermediates/pre-dexed/debug/classes-6eaafc305234cb332e836567eaae6e848ff0e4af.jar
